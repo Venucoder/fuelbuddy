@@ -1,0 +1,20 @@
+export const places = ['Rao and Naidu Engineering College', 'SSN Degree College', 'SN Padu', 'Pelluru', 'Karavadi', 'Maddipadu', 'Chandrapalem', 'Surareddy palem', 'Ponduru', 'Marlapadu', 'Mynampadu', 'Nelturu', 'Ulichi', 'Dasaraju palli', 'Throvagunta', 'Narasa Puram', 'Koppolu']
+export const distances = {	
+	'Rao and Naidu Engineering College': 3.8,
+	'SSN Degree College': 9.7,		
+	'SN Padu': 13,
+	'Pelluru': 8,
+	'Karavadi': 13,
+	'Maddipadu': 16,
+    'Chandrapalem': 17,
+    'Surareddy palem': 14,
+    'Ponduru': 18,
+    'Marlapadu':18,
+    'Mynampadu': 15,
+    'Nelturu': 18,
+    'Ulichi': 17,
+    'Dasaraju palli': 6,	
+    'Throvagunta': 6,
+    'Narasa Puram': 6.5,
+	'Koppolu': 5,
+}
